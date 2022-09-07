@@ -1,0 +1,35 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.overlay{
+    color: white;
+}
+
+/* .desc {
+    display: flex;
+    flex-wrap: wrap;
+} */
+
+.astro-4YTBCMPP span{
+    display: inline block;
+    margin: 5px 0;
+}
+
+
+@media (max-width: 440px) {
+    .desc {
+      display: none;
+    }
+  }
+
+@media (max-width: 335px) {
+    .role  {
+      display: none;
+    }
+  }
+
