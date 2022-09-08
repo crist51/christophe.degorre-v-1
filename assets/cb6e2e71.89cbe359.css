@@ -12,6 +12,7 @@
     background-color: var(--t-fg);
     background-repeat: no-repeat;
     background-size: cover;
+    /* background-size: 100%; */
     min-height: 25vw;
     color: #fff;
     flex-direction: column;

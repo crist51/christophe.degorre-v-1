@@ -1,1 +1,4 @@
-.grid:where(.astro-HLE4NI4M){display:grid;grid-gap:3rem}
+.grid:where(.astro-HLE4NI4M) {
+    display: grid;
+    grid-gap: 3rem
+}
